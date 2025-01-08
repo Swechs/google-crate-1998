@@ -1,1 +1,1 @@
-# patika_css_task2
+# I designed a google sheet with basic information
